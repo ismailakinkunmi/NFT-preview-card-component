@@ -7,3 +7,5 @@
 - HTML5
 - CSS3
 - VSCode
+
+### [Preview site] (https://ismailakinkunmi.github.io/NFT-preview-card-component/)

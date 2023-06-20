@@ -18,7 +18,7 @@ body {
     font-family: 'Outfit', sans-serif;
     font-size: 18px;
     color: white;
-    transition: 1s ease;
+    transition: all 1s ease;
 }
 
 .preview-app {
